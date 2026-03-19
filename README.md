@@ -49,3 +49,4 @@ El framework genera reportes automáticos al finalizar cada ejecución. Puede co
 
 * target/surefire-reports/index.html (Generado por Maven). 
 * test-output/index.html (Generado por TestNG).
+* Test Results in index
